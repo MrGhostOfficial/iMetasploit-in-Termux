@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/67456616/176004561-89edd3f5-8db4-41d9-
 
 # [ This Just Copy & Past in Termux☟ ]
 ```
-git clone https://github.com/MrGhostOfficial/iMetasploit-in-Termux.git;cd iMetasploit-in-Termux;chmod 7777 Metasploit-6-install.sh;./Metasploit-6-install.sh;cd $HOME;rm -rf iMetasploit-in-Termux
+git clone https://github.com/MrGhostOfficial/iMetasploit-in-Termux.git;cd iMetasploit-in-Termux;chmod 7777 Install-Metasploit.sh;./Install-Metasploit.sh;cd $HOME;rm -rf iMetasploit-in-Termux
 
 
 ```
